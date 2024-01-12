@@ -1,4 +1,4 @@
-Files for Book Recommendation in idea files
+Files for Book Recommendation in idea file
 
 Notes:
 Currently the Book Rec System gives the option of allowing users to sort books through either genre or title:
